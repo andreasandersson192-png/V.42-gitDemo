@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hej världen !!");
+
+            Console.WriteLine( );
+
+            Console.WriteLine( );
+
+            Console.WriteLine( );
+            
+
         }
     }
 }
