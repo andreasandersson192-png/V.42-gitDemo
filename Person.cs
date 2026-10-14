@@ -8,8 +8,8 @@ namespace V._42_gitDemo
     internal class Person
     {
 
-        ChannelWriter 
-            cwcwc 
+        
+            public int MyProperty { get; set; }
 
     }
 }
